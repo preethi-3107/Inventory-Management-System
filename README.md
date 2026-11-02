@@ -1,16 +1,28 @@
-# React + Vite
+# Inventory Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Project Overview
+The Inventory Management System is a web-based application designed to simplify inventory operations. It helps users manage products, monitor stock levels, organize categories, maintain supplier information, record sales, and view inventory reports through a centralized dashboard.
 
-Currently, two official plugins are available:
+## Features
+- **Dashboard:** Overview of inventory and sales information.
+- **Product Management:** Add, update, delete, and manage products.
+- **Category Management:** Organize products into categories.
+- **Supplier Management:** Maintain supplier details.
+- **Sales Management:** Record and manage sales transactions.
+- **Reports:** View inventory and sales summaries.
+- **Settings:** Manage application preferences.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
+- React.js
+- JavaScript
+- HTML
+- CSS
+- SQL
 
-## React Compiler
+## Project Objective
+To make inventory tracking and product management easier through a simple and organized web application.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Author
+**Talacheeru Sai Preethi**
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+GitHub: https://github.com/preethi-3107
